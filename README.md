@@ -8,10 +8,10 @@
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
-	- React with Redux :electron:
-	- MonogoDB
-  - Express
-  - NodeJS  
+ - Python
+ - Django
+ - MySQL
+	
 - **Shell Scripting**
 
 
@@ -22,7 +22,7 @@
 <br/><br/>
 
 ## 🌱 I’m currently learning ...
-- **Java**
+- **React.js**
 <br/>
   <br/>
 
